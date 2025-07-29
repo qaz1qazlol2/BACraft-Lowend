@@ -1,5 +1,8 @@
-# BACraft-Lowend
-# 这个仓库只会在正式版本维护完毕后更新对应的低配版
+# BACraft
+# 想体验最新测试版本请安装git后输入 
+# git clone --recursive https://bgithub.xyz/qaz1qazlol2/BACraft.git
+# Win10及以上（非精简版）使用 winget install Git.Git 来安装git
+整合包主体部分
 
 2024年8月1日：
 
@@ -35,6 +38,9 @@ GCOshine ： NIGA头子
 
 对着爱丽丝发癫：枪包修改
 
+星草大帝：低配包维护
+
+HachiHikari：Kubejs魔改参与成员
 
 还有这些人员，他们提供的建议让这个整合包变得更好：
 
