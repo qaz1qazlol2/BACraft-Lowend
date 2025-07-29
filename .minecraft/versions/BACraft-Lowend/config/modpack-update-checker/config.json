@@ -4,7 +4,7 @@
   "modpackName": "BACraft-Lowend",
   "modpackAuthor": "sfhuewui & qaz1qazlol & 小水滴的源头 and 星草大帝",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://versions.allforhina.com/BACraft/lowend",
+  "updateCheckerId": "https://versions.allforhina.com/BACraft/lowend/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
